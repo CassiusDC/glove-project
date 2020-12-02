@@ -19,6 +19,11 @@ export default {
         },
       },
       NotFound: '*',
+      GetStarted:{
+        screens: {
+          GetStartedScreen: 'GetStarted',
+        },
+      },
     },
   },
 };

@@ -1,4 +1,5 @@
 export type RootStackParamList = {
+  GetStarted: undefined;
   Root: undefined;
   NotFound: undefined;
 };
